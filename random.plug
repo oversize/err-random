@@ -1,0 +1,7 @@
+[Core]
+Name = Random
+Module = random
+    
+[Documentation]
+Description = A random number generating plugin
+
