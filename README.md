@@ -10,6 +10,8 @@ Installation
 Usage
 -----
 `!random`
+or
+`!random [min] [max]`
 
 Licence
 -------
