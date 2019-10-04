@@ -3,6 +3,16 @@ err-random
 
 A super simple err plugin that returns a random number, yay!
 
+Installation
+------------
+`!repo install https://github.com/charlesrg/err-stash.git`
+
+Usage
+-----
+`!random`
+or
+`!random [min] [max]`
+
 Licence
 -------
 
